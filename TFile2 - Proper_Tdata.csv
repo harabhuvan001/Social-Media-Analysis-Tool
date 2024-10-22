@@ -1,0 +1,530 @@
+App,Time Interval,Side Effects,Solutions
+Facebook,0-30," Mild distraction, reduced productivity(Severity 1 Mild)","Schedule short breaks, avoid notifications"
+Instagram,0-30,"Mild distraction, fleeting envy(Severity 1 Mild)","Limit daily use, manage notifications"
+Twitter,0-30,"Information overload, fleeting negativity(Severity 1 Mild)","Avoid checking during work, curate newsfeed"
+Snapchat,0-30,"Mild distraction, fleeting FOMO(Severity 1 Mild)","Manage notifications, avoid beauty filters"
+TikTok,0-30,"Mild distraction, fleeting comparison(Severity 1 Mild)","Manage notifications, avoid algorithmic rabbit holes"
+YouTube,0-30,"Passive consumption, mild distraction(Severity 1 Mild)","Use playlists, prioritize educational content"
+Facebook,30-60,"Decreased self-esteem, anxiety, FOMO(Severity 2 Moderate)","Limit daily use, curate newsfeed, focus on real-world connections"
+Instagram,30-60,"Body image dissatisfaction, FOMO(Severity 2 Moderate)","Follow diverse accounts, avoid explore page, focus on self-expression"
+Twitter,30-60,"Anxiety, political polarization(Severity 2 Moderate)","Mute or block negativity, fact-check information, limit political content"
+Snapchat,30-60,"Social pressure, unrealistic beauty standards(Severity 2 Moderate)","Reduce daily use, utilize ""My Story"" responsibly, prioritize real-world connections"
+TikTok,30-60,"Short attention span, procrastination(Severity 2 Moderate)","Set time limits, curate content, prioritize offline activities"
+YouTube,30-60,"Procrastination, information overload(Severity 2 Moderate)","Set time limits, utilize ""Do Not Disturb"" mode, diversify content sources"
+Facebook,60-120,"Depression, social comparison, addiction (Severity 3 significant)","Schedule breaks, utilize privacy settings, consider deactivating"
+Instagram,60-120,"Increased risk of eating disorders, loneliness (Severity 3 significant)","Reduce daily use, prioritize real-life social interaction, consider professional help"
+Twitter,60-120,"Sleep disturbance, echo chambers(Severity 3 significant)","Schedule breaks, prioritize sleep hygiene, diversify content sources"
+Snapchat,60-120,"Increased risk of cyberbullying, anxiety(Severity 3 significant)","Report cyberbullying, consider deactivating, prioritize mental health"
+TikTok,60-120,"Addiction, sleep disturbance, exposure to misinformation(Severity 3 Significant)","Reduce daily use, utilize parental controls, prioritize sleep hygiene"
+YouTube,60-120,"Algorithm rabbit holes, addiction(Severity 3 significant)","Reduce daily use, prioritize productivity, diversify content sources"
+Facebook,120+,Seek professional help(Severity 4 Severe),Seek professional help
+Instagram,120+,Seek professional help(Severity 4 Severe),Seek professional help
+Twitter,120+,Seek professional help(Severity 4 Severe),Seek professional help
+Snapchat,120+,Seek professional help(Severity 4 Severe),Seek professional help
+TikTok,120+,Seek professional help(Severity 4 Severe),Seek professional help
+TikTok,60-120,"Addiction, sleep disturbance, exposure to misinformation (Severity 3 Significant)","Reduce daily use, utilize parental controls, prioritize sleep hygiene"
+Instagram,120+,Seek professional help (Severity 4 Severe),Seek professional help
+Instagram,60-120,"Increased risk of eating disorders, loneliness (Severity 3 Significant)","Reduce daily use, prioritize real-life social interaction, consider professional help"
+Facebook,0-30,"Mild distraction, reduced productivity (Severity 1 Mild)","Schedule short breaks, avoid notifications"
+Facebook,60-120,"Depression, social comparison, addiction (Severity 3 Significant)","Schedule breaks, utilize privacy settings, consider deactivating"
+Snapchat,30-60,"Social pressure, unrealistic beauty standards (Severity 2 Moderate)","Reduce daily use, utilize ""My Story"" responsibly, prioritize real-world connections"
+YouTube,60-120,"Algorithm rabbit holes, addiction (Severity 3 Significant)","Reduce daily use, prioritize productivity, diversify content sources"
+Instagram,0-30,"Mild distraction, fleeting envy (Severity 1 Mild)","Limit daily use, manage notifications"
+Twitter,120+,Seek professional help (Severity 4 Severe),Seek professional help
+Snapchat,60-120,"Increased risk of cyberbullying, anxiety (Severity 3 Significant)","Report cyberbullying, consider deactivating, prioritize mental health"
+Facebook,30-60,"Decreased self-esteem, anxiety, FOMO (Severity 2 Moderate)","Limit daily use, curate newsfeed, focus on real-world connections"
+YouTube,30-60,"Procrastination, information overload (Severity 2 Moderate)","Set time limits, utilize ""Do Not Disturb"" mode, diversify content sources"
+Instagram,120+,Seek professional help (Severity 4 Severe),Seek professional help
+TikTok,0-30,"Mild distraction, fleeting comparison (Severity 1 Mild)","Manage notifications, avoid algorithmic rabbit holes"
+Snapchat,0-30,"Mild distraction, fleeting FOMO (Severity 1 Mild)","Manage notifications, avoid beauty filters"
+Twitter,0-30,"Information overload, fleeting negativity (Severity 1 Mild)","Avoid checking during work, curate newsfeed"
+Facebook,120+,Seek professional help (Severity 4 Severe),Seek professional help
+Twitter,30-60,"Anxiety, political polarization (Severity 2 Moderate)","Mute or block negativity, fact-check information, limit political content"
+Twitter,60-120,"Sleep disturbance, echo chambers (Severity 3 Significant)","Schedule breaks, prioritize sleep hygiene, diversify content sources"
+TikTok,120+,Seek professional help (Severity 4 Severe),Seek professional help
+YouTube,0-30,"Passive consumption, mild distraction (Severity 1 Mild)","Use playlists, prioritize educational content"
+Instagram,30-60,"Body image dissatisfaction, FOMO (Severity 2 Moderate)","Follow diverse accounts, avoid explore page, focus on self-expression"
+TikTok,60-120,"Addiction, sleep disturbance, exposure to misinformation (Severity 3 Significant)","Reduce daily use, utilize parental controls, prioritize sleep hygiene"
+Instagram,120+,Seek professional help (Severity 4 Severe),Seek professional help
+Instagram,60-120,"Increased risk of eating disorders, loneliness (Severity 3 Significant)","Reduce daily use, prioritize real-life social interaction, consider professional help"
+Facebook,0-30,"Mild distraction, reduced productivity (Severity 1 Mild)","Schedule short breaks, avoid notifications"
+Facebook,60-120,"Depression, social comparison, addiction (Severity 3 Significant)","Schedule breaks, utilize privacy settings, consider deactivating"
+Snapchat,30-60,"Social pressure, unrealistic beauty standards (Severity 2 Moderate)","Reduce daily use, utilize ""My Story"" responsibly, prioritize real-world connections"
+YouTube,60-120,"Algorithm rabbit holes, addiction (Severity 3 Significant)","Reduce daily use, prioritize productivity, diversify content sources"
+Instagram,0-30,"Mild distraction, fleeting envy (Severity 1 Mild)","Limit daily use, manage notifications"
+Twitter,120+,Seek professional help (Severity 4 Severe),Seek professional help
+Snapchat,60-120,"Increased risk of cyberbullying, anxiety (Severity 3 Significant)","Report cyberbullying, consider deactivating, prioritize mental health"
+Facebook,30-60,"Decreased self-esteem, anxiety, FOMO (Severity 2 Moderate)","Limit daily use, curate newsfeed, focus on real-world connections"
+YouTube,30-60,"Procrastination, information overload (Severity 2 Moderate)","Set time limits, utilize ""Do Not Disturb"" mode, diversify content sources"
+Instagram,120+,Seek professional help (Severity 4 Severe),Seek professional help
+TikTok,0-30,"Mild distraction, fleeting comparison (Severity 1 Mild)","Manage notifications, avoid algorithmic rabbit holes"
+Snapchat,0-30,"Mild distraction, fleeting FOMO (Severity 1 Mild)","Manage notifications, avoid beauty filters"
+Twitter,0-30,"Information overload, fleeting negativity (Severity 1 Mild)","Avoid checking during work, curate newsfeed"
+Facebook,120+,Seek professional help (Severity 4 Severe),Seek professional help
+Twitter,30-60,"Anxiety, political polarization (Severity 2 Moderate)","Mute or block negativity, fact-check information, limit political content"
+Twitter,60-120,"Sleep disturbance, echo chambers (Severity 3 Significant)","Schedule breaks, prioritize sleep hygiene, diversify content sources"
+TikTok,120+,Seek professional help (Severity 4 Severe),Seek professional help
+YouTube,0-30,"Passive consumption, mild distraction (Severity 1 Mild)","Use playlists, prioritize educational content"
+Instagram,30-60,"Body image dissatisfaction, FOMO (Severity 2 Moderate)","Follow diverse accounts, avoid explore page, focus on self-expression"
+TikTok,60-120,"Addiction, sleep disturbance, exposure to misinformation (Severity 3 Significant)","Reduce daily use, utilize parental controls, prioritize sleep hygiene"
+Instagram,120+,Seek professional help (Severity 4 Severe),Seek professional help
+Instagram,60-120,"Increased risk of eating disorders, loneliness (Severity 3 Significant)","Reduce daily use, prioritize real-life social interaction, consider professional help"
+Facebook,0-30,"Mild distraction, reduced productivity (Severity 1 Mild)","Schedule short breaks, avoid notifications"
+Facebook,60-120,"Depression, social comparison, addiction (Severity 3 Significant)","Schedule breaks, utilize privacy settings, consider deactivating"
+Snapchat,30-60,"Social pressure, unrealistic beauty standards (Severity 2 Moderate)","Reduce daily use, utilize ""My Story"" responsibly, prioritize real-world connections"
+YouTube,60-120,"Algorithm rabbit holes, addiction (Severity 3 Significant)","Reduce daily use, prioritize productivity, diversify content sources"
+Instagram,0-30,"Mild distraction, fleeting envy (Severity 1 Mild)","Limit daily use, manage notifications"
+Twitter,120+,Seek professional help (Severity 4 Severe),Seek professional help
+Snapchat,60-120,"Increased risk of cyberbullying, anxiety (Severity 3 Significant)","Report cyberbullying, consider deactivating, prioritize mental health"
+Facebook,30-60,"Decreased self-esteem, anxiety, FOMO (Severity 2 Moderate)","Limit daily use, curate newsfeed, focus on real-world connections"
+YouTube,30-60,"Procrastination, information overload (Severity 2 Moderate)","Set time limits, utilize ""Do Not Disturb"" mode, diversify content sources"
+Instagram,120+,Seek professional help (Severity 4 Severe),Seek professional help
+TikTok,0-30,"Mild distraction, fleeting comparison (Severity 1 Mild)","Manage notifications, avoid algorithmic rabbit holes"
+Snapchat,0-30,"Mild distraction, fleeting FOMO (Severity 1 Mild)","Manage notifications, avoid beauty filters"
+Twitter,0-30,"Information overload, fleeting negativity (Severity 1 Mild)","Avoid checking during work, curate newsfeed"
+Facebook,120+,Seek professional help (Severity 4 Severe),Seek professional help
+Twitter,30-60,"Anxiety, political polarization (Severity 2 Moderate)","Mute or block negativity, fact-check information, limit political content"
+Twitter,60-120,"Sleep disturbance, echo chambers (Severity 3 Significant)","Schedule breaks, prioritize sleep hygiene, diversify content sources"
+TikTok,120+,Seek professional help (Severity 4 Severe),Seek professional help
+YouTube,0-30,"Passive consumption, mild distraction (Severity 1 Mild)","Use playlists, prioritize educational content"
+Instagram,30-60,"Body image dissatisfaction, FOMO (Severity 2 Moderate)","Follow diverse accounts, avoid explore page, focus on self-expression"
+TikTok,60-120,"Addiction, sleep disturbance, exposure to misinformation (Severity 3 Significant)","Reduce daily use, utilize parental controls, prioritize sleep hygiene"
+Instagram,120+,Seek professional help (Severity 4 Severe),Seek professional help
+Instagram,60-120,"Increased risk of eating disorders, loneliness (Severity 3 Significant)","Reduce daily use, prioritize real-life social interaction, consider professional help"
+Facebook,0-30,"Mild distraction, reduced productivity (Severity 1 Mild)","Schedule short breaks, avoid notifications"
+Facebook,60-120,"Depression, social comparison, addiction (Severity 3 Significant)","Schedule breaks, utilize privacy settings, consider deactivating"
+Snapchat,30-60,"Social pressure, unrealistic beauty standards (Severity 2 Moderate)","Reduce daily use, utilize ""My Story"" responsibly, prioritize real-world connections"
+YouTube,60-120,"Algorithm rabbit holes, addiction (Severity 3 Significant)","Reduce daily use, prioritize productivity, diversify content sources"
+Instagram,0-30,"Mild distraction, fleeting envy (Severity 1 Mild)","Limit daily use, manage notifications"
+Twitter,120+,Seek professional help (Severity 4 Severe),Seek professional help
+Snapchat,60-120,"Increased risk of cyberbullying, anxiety (Severity 3 Significant)","Report cyberbullying, consider deactivating, prioritize mental health"
+Facebook,30-60,"Decreased self-esteem, anxiety, FOMO (Severity 2 Moderate)","Limit daily use, curate newsfeed, focus on real-world connections"
+YouTube,30-60,"Procrastination, information overload (Severity 2 Moderate)","Set time limits, utilize ""Do Not Disturb"" mode, diversify content sources"
+Instagram,120+,Seek professional help (Severity 4 Severe),Seek professional help
+TikTok,0-30,"Mild distraction, fleeting comparison (Severity 1 Mild)","Manage notifications, avoid algorithmic rabbit holes"
+Snapchat,0-30,"Mild distraction, fleeting FOMO (Severity 1 Mild)","Manage notifications, avoid beauty filters"
+Twitter,0-30,"Information overload, fleeting negativity (Severity 1 Mild)","Avoid checking during work, curate newsfeed"
+Facebook,120+,Seek professional help (Severity 4 Severe),Seek professional help
+Twitter,30-60,"Anxiety, political polarization (Severity 2 Moderate)","Mute or block negativity, fact-check information, limit political content"
+Twitter,60-120,"Sleep disturbance, echo chambers (Severity 3 Significant)","Schedule breaks, prioritize sleep hygiene, diversify content sources"
+TikTok,120+,Seek professional help (Severity 4 Severe),Seek professional help
+YouTube,0-30,"Passive consumption, mild distraction (Severity 1 Mild)","Use playlists, prioritize educational content"
+Instagram,30-60,"Body image dissatisfaction, FOMO (Severity 2 Moderate)","Follow diverse accounts, avoid explore page, focus on self-expression"
+TikTok,60-120,"Addiction, sleep disturbance, exposure to misinformation (Severity 3 Significant)","Reduce daily use, utilize parental controls, prioritize sleep hygiene"
+Instagram,120+,Seek professional help (Severity 4 Severe),Seek professional help
+Instagram,60-120,"Increased risk of eating disorders, loneliness (Severity 3 Significant)","Reduce daily use, prioritize real-life social interaction, consider professional help"
+Facebook,0-30,"Mild distraction, reduced productivity (Severity 1 Mild)","Schedule short breaks, avoid notifications"
+Facebook,60-120,"Depression, social comparison, addiction (Severity 3 Significant)","Schedule breaks, utilize privacy settings, consider deactivating"
+Snapchat,30-60,"Social pressure, unrealistic beauty standards (Severity 2 Moderate)","Reduce daily use, utilize ""My Story"" responsibly, prioritize real-world connections"
+YouTube,60-120,"Algorithm rabbit holes, addiction (Severity 3 Significant)","Reduce daily use, prioritize productivity, diversify content sources"
+Instagram,0-30,"Mild distraction, fleeting envy (Severity 1 Mild)","Limit daily use, manage notifications"
+Twitter,120+,Seek professional help (Severity 4 Severe),Seek professional help
+Snapchat,60-120,"Increased risk of cyberbullying, anxiety (Severity 3 Significant)","Report cyberbullying, consider deactivating, prioritize mental health"
+Facebook,30-60,"Decreased self-esteem, anxiety, FOMO (Severity 2 Moderate)","Limit daily use, curate newsfeed, focus on real-world connections"
+YouTube,30-60,"Procrastination, information overload (Severity 2 Moderate)","Set time limits, utilize ""Do Not Disturb"" mode, diversify content sources"
+Instagram,120+,Seek professional help (Severity 4 Severe),Seek professional help
+TikTok,0-30,"Mild distraction, fleeting comparison (Severity 1 Mild)","Manage notifications, avoid algorithmic rabbit holes"
+Snapchat,0-30,"Mild distraction, fleeting FOMO (Severity 1 Mild)","Manage notifications, avoid beauty filters"
+Twitter,0-30,"Information overload, fleeting negativity (Severity 1 Mild)","Avoid checking during work, curate newsfeed"
+Facebook,120+,Seek professional help (Severity 4 Severe),Seek professional help
+Twitter,30-60,"Anxiety, political polarization (Severity 2 Moderate)","Mute or block negativity, fact-check information, limit political content"
+Twitter,60-120,"Sleep disturbance, echo chambers (Severity 3 Significant)","Schedule breaks, prioritize sleep hygiene, diversify content sources"
+TikTok,120+,Seek professional help (Severity 4 Severe),Seek professional help
+YouTube,0-30,"Passive consumption, mild distraction (Severity 1 Mild)","Use playlists, prioritize educational content"
+Instagram,30-60,"Body image dissatisfaction, FOMO (Severity 2 Moderate)","Follow diverse accounts, avoid explore page, focus on self-expression"
+TikTok,60-120,"Addiction, sleep disturbance, exposure to misinformation (Severity 3 Significant)","Reduce daily use, utilize parental controls, prioritize sleep hygiene"
+Instagram,120+,Seek professional help (Severity 4 Severe),Seek professional help
+Instagram,60-120,"Increased risk of eating disorders, loneliness (Severity 3 Significant)","Reduce daily use, prioritize real-life social interaction, consider professional help"
+Facebook,0-30,"Mild distraction, reduced productivity (Severity 1 Mild)","Schedule short breaks, avoid notifications"
+Facebook,60-120,"Depression, social comparison, addiction (Severity 3 Significant)","Schedule breaks, utilize privacy settings, consider deactivating"
+Snapchat,30-60,"Social pressure, unrealistic beauty standards (Severity 2 Moderate)","Reduce daily use, utilize ""My Story"" responsibly, prioritize real-world connections"
+YouTube,60-120,"Algorithm rabbit holes, addiction (Severity 3 Significant)","Reduce daily use, prioritize productivity, diversify content sources"
+Instagram,0-30,"Mild distraction, fleeting envy (Severity 1 Mild)","Limit daily use, manage notifications"
+Twitter,120+,Seek professional help (Severity 4 Severe),Seek professional help
+Snapchat,60-120,"Increased risk of cyberbullying, anxiety (Severity 3 Significant)","Report cyberbullying, consider deactivating, prioritize mental health"
+Facebook,30-60,"Decreased self-esteem, anxiety, FOMO (Severity 2 Moderate)","Limit daily use, curate newsfeed, focus on real-world connections"
+YouTube,30-60,"Procrastination, information overload (Severity 2 Moderate)","Set time limits, utilize ""Do Not Disturb"" mode, diversify content sources"
+Instagram,120+,Seek professional help (Severity 4 Severe),Seek professional help
+TikTok,0-30,"Mild distraction, fleeting comparison (Severity 1 Mild)","Manage notifications, avoid algorithmic rabbit holes"
+Snapchat,0-30,"Mild distraction, fleeting FOMO (Severity 1 Mild)","Manage notifications, avoid beauty filters"
+Twitter,0-30,"Information overload, fleeting negativity (Severity 1 Mild)","Avoid checking during work, curate newsfeed"
+Facebook,120+,Seek professional help (Severity 4 Severe),Seek professional help
+Twitter,30-60,"Anxiety, political polarization (Severity 2 Moderate)","Mute or block negativity, fact-check information, limit political content"
+Twitter,60-120,"Sleep disturbance, echo chambers (Severity 3 Significant)","Schedule breaks, prioritize sleep hygiene, diversify content sources"
+TikTok,120+,Seek professional help (Severity 4 Severe),Seek professional help
+YouTube,0-30,"Passive consumption, mild distraction (Severity 1 Mild)","Use playlists, prioritize educational content"
+Instagram,30-60,"Body image dissatisfaction, FOMO (Severity 2 Moderate)","Follow diverse accounts, avoid explore page, focus on self-expression"
+TikTok,60-120,"Addiction, sleep disturbance, exposure to misinformation (Severity 3 Significant)","Reduce daily use, utilize parental controls, prioritize sleep hygiene"
+Instagram,120+,Seek professional help (Severity 4 Severe),Seek professional help
+Instagram,60-120,"Increased risk of eating disorders, loneliness (Severity 3 Significant)","Reduce daily use, prioritize real-life social interaction, consider professional help"
+Facebook,0-30,"Mild distraction, reduced productivity (Severity 1 Mild)","Schedule short breaks, avoid notifications"
+Facebook,60-120,"Depression, social comparison, addiction (Severity 3 Significant)","Schedule breaks, utilize privacy settings, consider deactivating"
+Snapchat,30-60,"Social pressure, unrealistic beauty standards (Severity 2 Moderate)","Reduce daily use, utilize ""My Story"" responsibly, prioritize real-world connections"
+YouTube,60-120,"Algorithm rabbit holes, addiction (Severity 3 Significant)","Reduce daily use, prioritize productivity, diversify content sources"
+Instagram,0-30,"Mild distraction, fleeting envy (Severity 1 Mild)","Limit daily use, manage notifications"
+Twitter,120+,Seek professional help (Severity 4 Severe),Seek professional help
+Snapchat,60-120,"Increased risk of cyberbullying, anxiety (Severity 3 Significant)","Report cyberbullying, consider deactivating, prioritize mental health"
+Facebook,30-60,"Decreased self-esteem, anxiety, FOMO (Severity 2 Moderate)","Limit daily use, curate newsfeed, focus on real-world connections"
+YouTube,30-60,"Procrastination, information overload (Severity 2 Moderate)","Set time limits, utilize ""Do Not Disturb"" mode, diversify content sources"
+Instagram,120+,Seek professional help (Severity 4 Severe),Seek professional help
+TikTok,0-30,"Mild distraction, fleeting comparison (Severity 1 Mild)","Manage notifications, avoid algorithmic rabbit holes"
+Snapchat,0-30,"Mild distraction, fleeting FOMO (Severity 1 Mild)","Manage notifications, avoid beauty filters"
+Twitter,0-30,"Information overload, fleeting negativity (Severity 1 Mild)","Avoid checking during work, curate newsfeed"
+Facebook,120+,Seek professional help (Severity 4 Severe),Seek professional help
+Twitter,30-60,"Anxiety, political polarization (Severity 2 Moderate)","Mute or block negativity, fact-check information, limit political content"
+Twitter,60-120,"Sleep disturbance, echo chambers (Severity 3 Significant)","Schedule breaks, prioritize sleep hygiene, diversify content sources"
+TikTok,120+,Seek professional help (Severity 4 Severe),Seek professional help
+YouTube,0-30,"Passive consumption, mild distraction (Severity 1 Mild)","Use playlists, prioritize educational content"
+Instagram,30-60,"Body image dissatisfaction, FOMO (Severity 2 Moderate)","Follow diverse accounts, avoid explore page, focus on self-expression"
+TikTok,60-120,"Addiction, sleep disturbance, exposure to misinformation (Severity 3 Significant)","Reduce daily use, utilize parental controls, prioritize sleep hygiene"
+Instagram,120+,Seek professional help (Severity 4 Severe),Seek professional help
+Instagram,60-120,"Increased risk of eating disorders, loneliness (Severity 3 Significant)","Reduce daily use, prioritize real-life social interaction, consider professional help"
+Facebook,0-30,"Mild distraction, reduced productivity (Severity 1 Mild)","Schedule short breaks, avoid notifications"
+Facebook,60-120,"Depression, social comparison, addiction (Severity 3 Significant)","Schedule breaks, utilize privacy settings, consider deactivating"
+Snapchat,30-60,"Social pressure, unrealistic beauty standards (Severity 2 Moderate)","Reduce daily use, utilize ""My Story"" responsibly, prioritize real-world connections"
+YouTube,60-120,"Algorithm rabbit holes, addiction (Severity 3 Significant)","Reduce daily use, prioritize productivity, diversify content sources"
+Instagram,0-30,"Mild distraction, fleeting envy (Severity 1 Mild)","Limit daily use, manage notifications"
+Twitter,120+,Seek professional help (Severity 4 Severe),Seek professional help
+Snapchat,60-120,"Increased risk of cyberbullying, anxiety (Severity 3 Significant)","Report cyberbullying, consider deactivating, prioritize mental health"
+Facebook,30-60,"Decreased self-esteem, anxiety, FOMO (Severity 2 Moderate)","Limit daily use, curate newsfeed, focus on real-world connections"
+YouTube,30-60,"Procrastination, information overload (Severity 2 Moderate)","Set time limits, utilize ""Do Not Disturb"" mode, diversify content sources"
+Instagram,120+,Seek professional help (Severity 4 Severe),Seek professional help
+TikTok,0-30,"Mild distraction, fleeting comparison (Severity 1 Mild)","Manage notifications, avoid algorithmic rabbit holes"
+Snapchat,0-30,"Mild distraction, fleeting FOMO (Severity 1 Mild)","Manage notifications, avoid beauty filters"
+Twitter,0-30,"Information overload, fleeting negativity (Severity 1 Mild)","Avoid checking during work, curate newsfeed"
+Facebook,120+,Seek professional help (Severity 4 Severe),Seek professional help
+Twitter,30-60,"Anxiety, political polarization (Severity 2 Moderate)","Mute or block negativity, fact-check information, limit political content"
+Twitter,60-120,"Sleep disturbance, echo chambers (Severity 3 Significant)","Schedule breaks, prioritize sleep hygiene, diversify content sources"
+TikTok,120+,Seek professional help (Severity 4 Severe),Seek professional help
+YouTube,0-30,"Passive consumption, mild distraction (Severity 1 Mild)","Use playlists, prioritize educational content"
+Instagram,30-60,"Body image dissatisfaction, FOMO (Severity 2 Moderate)","Follow diverse accounts, avoid explore page, focus on self-expression"
+TikTok,60-120,"Addiction, sleep disturbance, exposure to misinformation (Severity 3 Significant)","Reduce daily use, utilize parental controls, prioritize sleep hygiene"
+Instagram,120+,Seek professional help (Severity 4 Severe),Seek professional help
+Instagram,60-120,"Increased risk of eating disorders, loneliness (Severity 3 Significant)","Reduce daily use, prioritize real-life social interaction, consider professional help"
+Facebook,0-30,"Mild distraction, reduced productivity (Severity 1 Mild)","Schedule short breaks, avoid notifications"
+Facebook,60-120,"Depression, social comparison, addiction (Severity 3 Significant)","Schedule breaks, utilize privacy settings, consider deactivating"
+Snapchat,30-60,"Social pressure, unrealistic beauty standards (Severity 2 Moderate)","Reduce daily use, utilize ""My Story"" responsibly, prioritize real-world connections"
+YouTube,60-120,"Algorithm rabbit holes, addiction (Severity 3 Significant)","Reduce daily use, prioritize productivity, diversify content sources"
+Instagram,0-30,"Mild distraction, fleeting envy (Severity 1 Mild)","Limit daily use, manage notifications"
+Twitter,120+,Seek professional help (Severity 4 Severe),Seek professional help
+Snapchat,60-120,"Increased risk of cyberbullying, anxiety (Severity 3 Significant)","Report cyberbullying, consider deactivating, prioritize mental health"
+Facebook,30-60,"Decreased self-esteem, anxiety, FOMO (Severity 2 Moderate)","Limit daily use, curate newsfeed, focus on real-world connections"
+YouTube,30-60,"Procrastination, information overload (Severity 2 Moderate)","Set time limits, utilize ""Do Not Disturb"" mode, diversify content sources"
+Instagram,120+,Seek professional help (Severity 4 Severe),Seek professional help
+TikTok,0-30,"Mild distraction, fleeting comparison (Severity 1 Mild)","Manage notifications, avoid algorithmic rabbit holes"
+Snapchat,0-30,"Mild distraction, fleeting FOMO (Severity 1 Mild)","Manage notifications, avoid beauty filters"
+Twitter,0-30,"Information overload, fleeting negativity (Severity 1 Mild)","Avoid checking during work, curate newsfeed"
+Facebook,120+,Seek professional help (Severity 4 Severe),Seek professional help
+Twitter,30-60,"Anxiety, political polarization (Severity 2 Moderate)","Mute or block negativity, fact-check information, limit political content"
+Twitter,60-120,"Sleep disturbance, echo chambers (Severity 3 Significant)","Schedule breaks, prioritize sleep hygiene, diversify content sources"
+TikTok,120+,Seek professional help (Severity 4 Severe),Seek professional help
+YouTube,0-30,"Passive consumption, mild distraction (Severity 1 Mild)","Use playlists, prioritize educational content"
+Instagram,30-60,"Body image dissatisfaction, FOMO (Severity 2 Moderate)","Follow diverse accounts, avoid explore page, focus on self-expression"
+TikTok,60-120,"Addiction, sleep disturbance, exposure to misinformation (Severity 3 Significant)","Reduce daily use, utilize parental controls, prioritize sleep hygiene"
+Instagram,120+,Seek professional help (Severity 4 Severe),Seek professional help
+Instagram,60-120,"Increased risk of eating disorders, loneliness (Severity 3 Significant)","Reduce daily use, prioritize real-life social interaction, consider professional help"
+Facebook,0-30,"Mild distraction, reduced productivity (Severity 1 Mild)","Schedule short breaks, avoid notifications"
+Facebook,60-120,"Depression, social comparison, addiction (Severity 3 Significant)","Schedule breaks, utilize privacy settings, consider deactivating"
+Snapchat,30-60,"Social pressure, unrealistic beauty standards (Severity 2 Moderate)","Reduce daily use, utilize ""My Story"" responsibly, prioritize real-world connections"
+YouTube,60-120,"Algorithm rabbit holes, addiction (Severity 3 Significant)","Reduce daily use, prioritize productivity, diversify content sources"
+Instagram,0-30,"Mild distraction, fleeting envy (Severity 1 Mild)","Limit daily use, manage notifications"
+Twitter,120+,Seek professional help (Severity 4 Severe),Seek professional help
+Snapchat,60-120,"Increased risk of cyberbullying, anxiety (Severity 3 Significant)","Report cyberbullying, consider deactivating, prioritize mental health"
+Facebook,30-60,"Decreased self-esteem, anxiety, FOMO (Severity 2 Moderate)","Limit daily use, curate newsfeed, focus on real-world connections"
+YouTube,30-60,"Procrastination, information overload (Severity 2 Moderate)","Set time limits, utilize ""Do Not Disturb"" mode, diversify content sources"
+Instagram,120+,Seek professional help (Severity 4 Severe),Seek professional help
+TikTok,0-30,"Mild distraction, fleeting comparison (Severity 1 Mild)","Manage notifications, avoid algorithmic rabbit holes"
+Snapchat,0-30,"Mild distraction, fleeting FOMO (Severity 1 Mild)","Manage notifications, avoid beauty filters"
+Twitter,0-30,"Information overload, fleeting negativity (Severity 1 Mild)","Avoid checking during work, curate newsfeed"
+Facebook,120+,Seek professional help (Severity 4 Severe),Seek professional help
+Twitter,30-60,"Anxiety, political polarization (Severity 2 Moderate)","Mute or block negativity, fact-check information, limit political content"
+Twitter,60-120,"Sleep disturbance, echo chambers (Severity 3 Significant)","Schedule breaks, prioritize sleep hygiene, diversify content sources"
+TikTok,120+,Seek professional help (Severity 4 Severe),Seek professional help
+YouTube,0-30,"Passive consumption, mild distraction (Severity 1 Mild)","Use playlists, prioritize educational content"
+Instagram,30-60,"Body image dissatisfaction, FOMO (Severity 2 Moderate)","Follow diverse accounts, avoid explore page, focus on self-expression"
+TikTok,60-120,"Addiction, sleep disturbance, exposure to misinformation (Severity 3 Significant)","Reduce daily use, utilize parental controls, prioritize sleep hygiene"
+Instagram,120+,Seek professional help (Severity 4 Severe),Seek professional help
+Instagram,60-120,"Increased risk of eating disorders, loneliness (Severity 3 Significant)","Reduce daily use, prioritize real-life social interaction, consider professional help"
+Facebook,0-30,"Mild distraction, reduced productivity (Severity 1 Mild)","Schedule short breaks, avoid notifications"
+Facebook,60-120,"Depression, social comparison, addiction (Severity 3 Significant)","Schedule breaks, utilize privacy settings, consider deactivating"
+Snapchat,30-60,"Social pressure, unrealistic beauty standards (Severity 2 Moderate)","Reduce daily use, utilize ""My Story"" responsibly, prioritize real-world connections"
+YouTube,60-120,"Algorithm rabbit holes, addiction (Severity 3 Significant)","Reduce daily use, prioritize productivity, diversify content sources"
+Instagram,0-30,"Mild distraction, fleeting envy (Severity 1 Mild)","Limit daily use, manage notifications"
+Twitter,120+,Seek professional help (Severity 4 Severe),Seek professional help
+Snapchat,60-120,"Increased risk of cyberbullying, anxiety (Severity 3 Significant)","Report cyberbullying, consider deactivating, prioritize mental health"
+Facebook,30-60,"Decreased self-esteem, anxiety, FOMO (Severity 2 Moderate)","Limit daily use, curate newsfeed, focus on real-world connections"
+YouTube,30-60,"Procrastination, information overload (Severity 2 Moderate)","Set time limits, utilize ""Do Not Disturb"" mode, diversify content sources"
+Instagram,120+,Seek professional help (Severity 4 Severe),Seek professional help
+TikTok,0-30,"Mild distraction, fleeting comparison (Severity 1 Mild)","Manage notifications, avoid algorithmic rabbit holes"
+Snapchat,0-30,"Mild distraction, fleeting FOMO (Severity 1 Mild)","Manage notifications, avoid beauty filters"
+Twitter,0-30,"Information overload, fleeting negativity (Severity 1 Mild)","Avoid checking during work, curate newsfeed"
+Facebook,120+,Seek professional help (Severity 4 Severe),Seek professional help
+Twitter,30-60,"Anxiety, political polarization (Severity 2 Moderate)","Mute or block negativity, fact-check information, limit political content"
+Twitter,60-120,"Sleep disturbance, echo chambers (Severity 3 Significant)","Schedule breaks, prioritize sleep hygiene, diversify content sources"
+TikTok,120+,Seek professional help (Severity 4 Severe),Seek professional help
+YouTube,0-30,"Passive consumption, mild distraction (Severity 1 Mild)","Use playlists, prioritize educational content"
+Instagram,30-60,"Body image dissatisfaction, FOMO (Severity 2 Moderate)","Follow diverse accounts, avoid explore page, focus on self-expression"
+TikTok,60-120,"Addiction, sleep disturbance, exposure to misinformation (Severity 3 Significant)","Reduce daily use, utilize parental controls, prioritize sleep hygiene"
+Instagram,120+,Seek professional help (Severity 4 Severe),Seek professional help
+Instagram,60-120,"Increased risk of eating disorders, loneliness (Severity 3 Significant)","Reduce daily use, prioritize real-life social interaction, consider professional help"
+Facebook,0-30,"Mild distraction, reduced productivity (Severity 1 Mild)","Schedule short breaks, avoid notifications"
+Facebook,60-120,"Depression, social comparison, addiction (Severity 3 Significant)","Schedule breaks, utilize privacy settings, consider deactivating"
+Snapchat,30-60,"Social pressure, unrealistic beauty standards (Severity 2 Moderate)","Reduce daily use, utilize ""My Story"" responsibly, prioritize real-world connections"
+YouTube,60-120,"Algorithm rabbit holes, addiction (Severity 3 Significant)","Reduce daily use, prioritize productivity, diversify content sources"
+Instagram,0-30,"Mild distraction, fleeting envy (Severity 1 Mild)","Limit daily use, manage notifications"
+Twitter,120+,Seek professional help (Severity 4 Severe),Seek professional help
+Snapchat,60-120,"Increased risk of cyberbullying, anxiety (Severity 3 Significant)","Report cyberbullying, consider deactivating, prioritize mental health"
+Facebook,30-60,"Decreased self-esteem, anxiety, FOMO (Severity 2 Moderate)","Limit daily use, curate newsfeed, focus on real-world connections"
+YouTube,30-60,"Procrastination, information overload (Severity 2 Moderate)","Set time limits, utilize ""Do Not Disturb"" mode, diversify content sources"
+Instagram,120+,Seek professional help (Severity 4 Severe),Seek professional help
+TikTok,0-30,"Mild distraction, fleeting comparison (Severity 1 Mild)","Manage notifications, avoid algorithmic rabbit holes"
+Snapchat,0-30,"Mild distraction, fleeting FOMO (Severity 1 Mild)","Manage notifications, avoid beauty filters"
+Twitter,0-30,"Information overload, fleeting negativity (Severity 1 Mild)","Avoid checking during work, curate newsfeed"
+Facebook,120+,Seek professional help (Severity 4 Severe),Seek professional help
+Twitter,30-60,"Anxiety, political polarization (Severity 2 Moderate)","Mute or block negativity, fact-check information, limit political content"
+Twitter,60-120,"Sleep disturbance, echo chambers (Severity 3 Significant)","Schedule breaks, prioritize sleep hygiene, diversify content sources"
+TikTok,120+,Seek professional help (Severity 4 Severe),Seek professional help
+YouTube,0-30,"Passive consumption, mild distraction (Severity 1 Mild)","Use playlists, prioritize educational content"
+Instagram,30-60,"Body image dissatisfaction, FOMO (Severity 2 Moderate)","Follow diverse accounts, avoid explore page, focus on self-expression"
+TikTok,60-120,"Addiction, sleep disturbance, exposure to misinformation (Severity 3 Significant)","Reduce daily use, utilize parental controls, prioritize sleep hygiene"
+Instagram,120+,Seek professional help (Severity 4 Severe),Seek professional help
+Instagram,60-120,"Increased risk of eating disorders, loneliness (Severity 3 Significant)","Reduce daily use, prioritize real-life social interaction, consider professional help"
+Facebook,0-30,"Mild distraction, reduced productivity (Severity 1 Mild)","Schedule short breaks, avoid notifications"
+Facebook,60-120,"Depression, social comparison, addiction (Severity 3 Significant)","Schedule breaks, utilize privacy settings, consider deactivating"
+Snapchat,30-60,"Social pressure, unrealistic beauty standards (Severity 2 Moderate)","Reduce daily use, utilize ""My Story"" responsibly, prioritize real-world connections"
+YouTube,60-120,"Algorithm rabbit holes, addiction (Severity 3 Significant)","Reduce daily use, prioritize productivity, diversify content sources"
+Instagram,0-30,"Mild distraction, fleeting envy (Severity 1 Mild)","Limit daily use, manage notifications"
+Twitter,120+,Seek professional help (Severity 4 Severe),Seek professional help
+Snapchat,60-120,"Increased risk of cyberbullying, anxiety (Severity 3 Significant)","Report cyberbullying, consider deactivating, prioritize mental health"
+Facebook,30-60,"Decreased self-esteem, anxiety, FOMO (Severity 2 Moderate)","Limit daily use, curate newsfeed, focus on real-world connections"
+YouTube,30-60,"Procrastination, information overload (Severity 2 Moderate)","Set time limits, utilize ""Do Not Disturb"" mode, diversify content sources"
+Instagram,120+,Seek professional help (Severity 4 Severe),Seek professional help
+TikTok,0-30,"Mild distraction, fleeting comparison (Severity 1 Mild)","Manage notifications, avoid algorithmic rabbit holes"
+Snapchat,0-30,"Mild distraction, fleeting FOMO (Severity 1 Mild)","Manage notifications, avoid beauty filters"
+Twitter,0-30,"Information overload, fleeting negativity (Severity 1 Mild)","Avoid checking during work, curate newsfeed"
+Facebook,120+,Seek professional help (Severity 4 Severe),Seek professional help
+Twitter,30-60,"Anxiety, political polarization (Severity 2 Moderate)","Mute or block negativity, fact-check information, limit political content"
+Twitter,60-120,"Sleep disturbance, echo chambers (Severity 3 Significant)","Schedule breaks, prioritize sleep hygiene, diversify content sources"
+TikTok,120+,Seek professional help (Severity 4 Severe),Seek professional help
+YouTube,0-30,"Passive consumption, mild distraction (Severity 1 Mild)","Use playlists, prioritize educational content"
+Instagram,30-60,"Body image dissatisfaction, FOMO (Severity 2 Moderate)","Follow diverse accounts, avoid explore page, focus on self-expression"
+TikTok,60-120,"Addiction, sleep disturbance, exposure to misinformation (Severity 3 Significant)","Reduce daily use, utilize parental controls, prioritize sleep hygiene"
+Instagram,120+,Seek professional help (Severity 4 Severe),Seek professional help
+Instagram,60-120,"Increased risk of eating disorders, loneliness (Severity 3 Significant)","Reduce daily use, prioritize real-life social interaction, consider professional help"
+Facebook,0-30,"Mild distraction, reduced productivity (Severity 1 Mild)","Schedule short breaks, avoid notifications"
+Facebook,60-120,"Depression, social comparison, addiction (Severity 3 Significant)","Schedule breaks, utilize privacy settings, consider deactivating"
+Snapchat,30-60,"Social pressure, unrealistic beauty standards (Severity 2 Moderate)","Reduce daily use, utilize ""My Story"" responsibly, prioritize real-world connections"
+YouTube,60-120,"Algorithm rabbit holes, addiction (Severity 3 Significant)","Reduce daily use, prioritize productivity, diversify content sources"
+Instagram,0-30,"Mild distraction, fleeting envy (Severity 1 Mild)","Limit daily use, manage notifications"
+Twitter,120+,Seek professional help (Severity 4 Severe),Seek professional help
+Snapchat,60-120,"Increased risk of cyberbullying, anxiety (Severity 3 Significant)","Report cyberbullying, consider deactivating, prioritize mental health"
+Facebook,30-60,"Decreased self-esteem, anxiety, FOMO (Severity 2 Moderate)","Limit daily use, curate newsfeed, focus on real-world connections"
+YouTube,30-60,"Procrastination, information overload (Severity 2 Moderate)","Set time limits, utilize ""Do Not Disturb"" mode, diversify content sources"
+Instagram,120+,Seek professional help (Severity 4 Severe),Seek professional help
+TikTok,0-30,"Mild distraction, fleeting comparison (Severity 1 Mild)","Manage notifications, avoid algorithmic rabbit holes"
+Snapchat,0-30,"Mild distraction, fleeting FOMO (Severity 1 Mild)","Manage notifications, avoid beauty filters"
+Twitter,0-30,"Information overload, fleeting negativity (Severity 1 Mild)","Avoid checking during work, curate newsfeed"
+Facebook,120+,Seek professional help (Severity 4 Severe),Seek professional help
+Twitter,30-60,"Anxiety, political polarization (Severity 2 Moderate)","Mute or block negativity, fact-check information, limit political content"
+Twitter,60-120,"Sleep disturbance, echo chambers (Severity 3 Significant)","Schedule breaks, prioritize sleep hygiene, diversify content sources"
+TikTok,120+,Seek professional help (Severity 4 Severe),Seek professional help
+YouTube,0-30,"Passive consumption, mild distraction (Severity 1 Mild)","Use playlists, prioritize educational content"
+Instagram,30-60,"Body image dissatisfaction, FOMO (Severity 2 Moderate)","Follow diverse accounts, avoid explore page, focus on self-expression"
+TikTok,60-120,"Addiction, sleep disturbance, exposure to misinformation (Severity 3 Significant)","Reduce daily use, utilize parental controls, prioritize sleep hygiene"
+Instagram,120+,Seek professional help (Severity 4 Severe),Seek professional help
+Instagram,60-120,"Increased risk of eating disorders, loneliness (Severity 3 Significant)","Reduce daily use, prioritize real-life social interaction, consider professional help"
+Facebook,0-30,"Mild distraction, reduced productivity (Severity 1 Mild)","Schedule short breaks, avoid notifications"
+Facebook,60-120,"Depression, social comparison, addiction (Severity 3 Significant)","Schedule breaks, utilize privacy settings, consider deactivating"
+Snapchat,30-60,"Social pressure, unrealistic beauty standards (Severity 2 Moderate)","Reduce daily use, utilize ""My Story"" responsibly, prioritize real-world connections"
+YouTube,60-120,"Algorithm rabbit holes, addiction (Severity 3 Significant)","Reduce daily use, prioritize productivity, diversify content sources"
+Instagram,0-30,"Mild distraction, fleeting envy (Severity 1 Mild)","Limit daily use, manage notifications"
+Twitter,120+,Seek professional help (Severity 4 Severe),Seek professional help
+Snapchat,60-120,"Increased risk of cyberbullying, anxiety (Severity 3 Significant)","Report cyberbullying, consider deactivating, prioritize mental health"
+Facebook,30-60,"Decreased self-esteem, anxiety, FOMO (Severity 2 Moderate)","Limit daily use, curate newsfeed, focus on real-world connections"
+YouTube,30-60,"Procrastination, information overload (Severity 2 Moderate)","Set time limits, utilize ""Do Not Disturb"" mode, diversify content sources"
+Instagram,120+,Seek professional help (Severity 4 Severe),Seek professional help
+TikTok,0-30,"Mild distraction, fleeting comparison (Severity 1 Mild)","Manage notifications, avoid algorithmic rabbit holes"
+Snapchat,0-30,"Mild distraction, fleeting FOMO (Severity 1 Mild)","Manage notifications, avoid beauty filters"
+Twitter,0-30,"Information overload, fleeting negativity (Severity 1 Mild)","Avoid checking during work, curate newsfeed"
+Facebook,120+,Seek professional help (Severity 4 Severe),Seek professional help
+Twitter,30-60,"Anxiety, political polarization (Severity 2 Moderate)","Mute or block negativity, fact-check information, limit political content"
+Twitter,60-120,"Sleep disturbance, echo chambers (Severity 3 Significant)","Schedule breaks, prioritize sleep hygiene, diversify content sources"
+TikTok,120+,Seek professional help (Severity 4 Severe),Seek professional help
+YouTube,0-30,"Passive consumption, mild distraction (Severity 1 Mild)","Use playlists, prioritize educational content"
+Instagram,30-60,"Body image dissatisfaction, FOMO (Severity 2 Moderate)","Follow diverse accounts, avoid explore page, focus on self-expression"
+TikTok,60-120,"Addiction, sleep disturbance, exposure to misinformation (Severity 3 Significant)","Reduce daily use, utilize parental controls, prioritize sleep hygiene"
+Instagram,120+,Seek professional help (Severity 4 Severe),Seek professional help
+Instagram,60-120,"Increased risk of eating disorders, loneliness (Severity 3 Significant)","Reduce daily use, prioritize real-life social interaction, consider professional help"
+Facebook,0-30,"Mild distraction, reduced productivity (Severity 1 Mild)","Schedule short breaks, avoid notifications"
+Facebook,60-120,"Depression, social comparison, addiction (Severity 3 Significant)","Schedule breaks, utilize privacy settings, consider deactivating"
+Snapchat,30-60,"Social pressure, unrealistic beauty standards (Severity 2 Moderate)","Reduce daily use, utilize ""My Story"" responsibly, prioritize real-world connections"
+YouTube,60-120,"Algorithm rabbit holes, addiction (Severity 3 Significant)","Reduce daily use, prioritize productivity, diversify content sources"
+Instagram,0-30,"Mild distraction, fleeting envy (Severity 1 Mild)","Limit daily use, manage notifications"
+Twitter,120+,Seek professional help (Severity 4 Severe),Seek professional help
+Snapchat,60-120,"Increased risk of cyberbullying, anxiety (Severity 3 Significant)","Report cyberbullying, consider deactivating, prioritize mental health"
+Facebook,30-60,"Decreased self-esteem, anxiety, FOMO (Severity 2 Moderate)","Limit daily use, curate newsfeed, focus on real-world connections"
+YouTube,30-60,"Procrastination, information overload (Severity 2 Moderate)","Set time limits, utilize ""Do Not Disturb"" mode, diversify content sources"
+Instagram,120+,Seek professional help (Severity 4 Severe),Seek professional help
+TikTok,0-30,"Mild distraction, fleeting comparison (Severity 1 Mild)","Manage notifications, avoid algorithmic rabbit holes"
+Snapchat,0-30,"Mild distraction, fleeting FOMO (Severity 1 Mild)","Manage notifications, avoid beauty filters"
+Twitter,0-30,"Information overload, fleeting negativity (Severity 1 Mild)","Avoid checking during work, curate newsfeed"
+Facebook,120+,Seek professional help (Severity 4 Severe),Seek professional help
+Twitter,30-60,"Anxiety, political polarization (Severity 2 Moderate)","Mute or block negativity, fact-check information, limit political content"
+Twitter,60-120,"Sleep disturbance, echo chambers (Severity 3 Significant)","Schedule breaks, prioritize sleep hygiene, diversify content sources"
+TikTok,120+,Seek professional help (Severity 4 Severe),Seek professional help
+YouTube,0-30,"Passive consumption, mild distraction (Severity 1 Mild)","Use playlists, prioritize educational content"
+Instagram,30-60,"Body image dissatisfaction, FOMO (Severity 2 Moderate)","Follow diverse accounts, avoid explore page, focus on self-expression"
+TikTok,60-120,"Addiction, sleep disturbance, exposure to misinformation (Severity 3 Significant)","Reduce daily use, utilize parental controls, prioritize sleep hygiene"
+Instagram,120+,Seek professional help (Severity 4 Severe),Seek professional help
+Instagram,60-120,"Increased risk of eating disorders, loneliness (Severity 3 Significant)","Reduce daily use, prioritize real-life social interaction, consider professional help"
+Facebook,0-30,"Mild distraction, reduced productivity (Severity 1 Mild)","Schedule short breaks, avoid notifications"
+Facebook,60-120,"Depression, social comparison, addiction (Severity 3 Significant)","Schedule breaks, utilize privacy settings, consider deactivating"
+Snapchat,30-60,"Social pressure, unrealistic beauty standards (Severity 2 Moderate)","Reduce daily use, utilize ""My Story"" responsibly, prioritize real-world connections"
+YouTube,60-120,"Algorithm rabbit holes, addiction (Severity 3 Significant)","Reduce daily use, prioritize productivity, diversify content sources"
+Instagram,0-30,"Mild distraction, fleeting envy (Severity 1 Mild)","Limit daily use, manage notifications"
+Twitter,120+,Seek professional help (Severity 4 Severe),Seek professional help
+Snapchat,60-120,"Increased risk of cyberbullying, anxiety (Severity 3 Significant)","Report cyberbullying, consider deactivating, prioritize mental health"
+Facebook,30-60,"Decreased self-esteem, anxiety, FOMO (Severity 2 Moderate)","Limit daily use, curate newsfeed, focus on real-world connections"
+YouTube,30-60,"Procrastination, information overload (Severity 2 Moderate)","Set time limits, utilize ""Do Not Disturb"" mode, diversify content sources"
+Instagram,120+,Seek professional help (Severity 4 Severe),Seek professional help
+TikTok,0-30,"Mild distraction, fleeting comparison (Severity 1 Mild)","Manage notifications, avoid algorithmic rabbit holes"
+Snapchat,0-30,"Mild distraction, fleeting FOMO (Severity 1 Mild)","Manage notifications, avoid beauty filters"
+Twitter,0-30,"Information overload, fleeting negativity (Severity 1 Mild)","Avoid checking during work, curate newsfeed"
+Facebook,120+,Seek professional help (Severity 4 Severe),Seek professional help
+Twitter,30-60,"Anxiety, political polarization (Severity 2 Moderate)","Mute or block negativity, fact-check information, limit political content"
+Twitter,60-120,"Sleep disturbance, echo chambers (Severity 3 Significant)","Schedule breaks, prioritize sleep hygiene, diversify content sources"
+TikTok,120+,Seek professional help (Severity 4 Severe),Seek professional help
+YouTube,0-30,"Passive consumption, mild distraction (Severity 1 Mild)","Use playlists, prioritize educational content"
+Instagram,30-60,"Body image dissatisfaction, FOMO (Severity 2 Moderate)","Follow diverse accounts, avoid explore page, focus on self-expression"
+TikTok,60-120,"Addiction, sleep disturbance, exposure to misinformation (Severity 3 Significant)","Reduce daily use, utilize parental controls, prioritize sleep hygiene"
+Instagram,120+,Seek professional help (Severity 4 Severe),Seek professional help
+Instagram,60-120,"Increased risk of eating disorders, loneliness (Severity 3 Significant)","Reduce daily use, prioritize real-life social interaction, consider professional help"
+Facebook,0-30,"Mild distraction, reduced productivity (Severity 1 Mild)","Schedule short breaks, avoid notifications"
+Facebook,60-120,"Depression, social comparison, addiction (Severity 3 Significant)","Schedule breaks, utilize privacy settings, consider deactivating"
+Snapchat,30-60,"Social pressure, unrealistic beauty standards (Severity 2 Moderate)","Reduce daily use, utilize ""My Story"" responsibly, prioritize real-world connections"
+YouTube,60-120,"Algorithm rabbit holes, addiction (Severity 3 Significant)","Reduce daily use, prioritize productivity, diversify content sources"
+Instagram,0-30,"Mild distraction, fleeting envy (Severity 1 Mild)","Limit daily use, manage notifications"
+Twitter,120+,Seek professional help (Severity 4 Severe),Seek professional help
+Snapchat,60-120,"Increased risk of cyberbullying, anxiety (Severity 3 Significant)","Report cyberbullying, consider deactivating, prioritize mental health"
+Facebook,30-60,"Decreased self-esteem, anxiety, FOMO (Severity 2 Moderate)","Limit daily use, curate newsfeed, focus on real-world connections"
+YouTube,30-60,"Procrastination, information overload (Severity 2 Moderate)","Set time limits, utilize ""Do Not Disturb"" mode, diversify content sources"
+Instagram,120+,Seek professional help (Severity 4 Severe),Seek professional help
+TikTok,0-30,"Mild distraction, fleeting comparison (Severity 1 Mild)","Manage notifications, avoid algorithmic rabbit holes"
+Snapchat,0-30,"Mild distraction, fleeting FOMO (Severity 1 Mild)","Manage notifications, avoid beauty filters"
+Twitter,0-30,"Information overload, fleeting negativity (Severity 1 Mild)","Avoid checking during work, curate newsfeed"
+Facebook,120+,Seek professional help (Severity 4 Severe),Seek professional help
+Twitter,30-60,"Anxiety, political polarization (Severity 2 Moderate)","Mute or block negativity, fact-check information, limit political content"
+Twitter,60-120,"Sleep disturbance, echo chambers (Severity 3 Significant)","Schedule breaks, prioritize sleep hygiene, diversify content sources"
+TikTok,120+,Seek professional help (Severity 4 Severe),Seek professional help
+YouTube,0-30,"Passive consumption, mild distraction (Severity 1 Mild)","Use playlists, prioritize educational content"
+Instagram,30-60,"Body image dissatisfaction, FOMO (Severity 2 Moderate)","Follow diverse accounts, avoid explore page, focus on self-expression"
+TikTok,60-120,"Addiction, sleep disturbance, exposure to misinformation (Severity 3 Significant)","Reduce daily use, utilize parental controls, prioritize sleep hygiene"
+Instagram,120+,Seek professional help (Severity 4 Severe),Seek professional help
+Instagram,60-120,"Increased risk of eating disorders, loneliness (Severity 3 Significant)","Reduce daily use, prioritize real-life social interaction, consider professional help"
+Facebook,0-30,"Mild distraction, reduced productivity (Severity 1 Mild)","Schedule short breaks, avoid notifications"
+Facebook,60-120,"Depression, social comparison, addiction (Severity 3 Significant)","Schedule breaks, utilize privacy settings, consider deactivating"
+Snapchat,30-60,"Social pressure, unrealistic beauty standards (Severity 2 Moderate)","Reduce daily use, utilize ""My Story"" responsibly, prioritize real-world connections"
+YouTube,60-120,"Algorithm rabbit holes, addiction (Severity 3 Significant)","Reduce daily use, prioritize productivity, diversify content sources"
+Instagram,0-30,"Mild distraction, fleeting envy (Severity 1 Mild)","Limit daily use, manage notifications"
+Twitter,120+,Seek professional help (Severity 4 Severe),Seek professional help
+Snapchat,60-120,"Increased risk of cyberbullying, anxiety (Severity 3 Significant)","Report cyberbullying, consider deactivating, prioritize mental health"
+Facebook,30-60,"Decreased self-esteem, anxiety, FOMO (Severity 2 Moderate)","Limit daily use, curate newsfeed, focus on real-world connections"
+YouTube,30-60,"Procrastination, information overload (Severity 2 Moderate)","Set time limits, utilize ""Do Not Disturb"" mode, diversify content sources"
+Instagram,120+,Seek professional help (Severity 4 Severe),Seek professional help
+TikTok,0-30,"Mild distraction, fleeting comparison (Severity 1 Mild)","Manage notifications, avoid algorithmic rabbit holes"
+Snapchat,0-30,"Mild distraction, fleeting FOMO (Severity 1 Mild)","Manage notifications, avoid beauty filters"
+Twitter,0-30,"Information overload, fleeting negativity (Severity 1 Mild)","Avoid checking during work, curate newsfeed"
+Facebook,120+,Seek professional help (Severity 4 Severe),Seek professional help
+Twitter,30-60,"Anxiety, political polarization (Severity 2 Moderate)","Mute or block negativity, fact-check information, limit political content"
+Twitter,60-120,"Sleep disturbance, echo chambers (Severity 3 Significant)","Schedule breaks, prioritize sleep hygiene, diversify content sources"
+TikTok,120+,Seek professional help (Severity 4 Severe),Seek professional help
+YouTube,0-30,"Passive consumption, mild distraction (Severity 1 Mild)","Use playlists, prioritize educational content"
+Instagram,30-60,"Body image dissatisfaction, FOMO (Severity 2 Moderate)","Follow diverse accounts, avoid explore page, focus on self-expression"
+TikTok,60-120,"Addiction, sleep disturbance, exposure to misinformation (Severity 3 Significant)","Reduce daily use, utilize parental controls, prioritize sleep hygiene"
+Instagram,120+,Seek professional help (Severity 4 Severe),Seek professional help
+Instagram,60-120,"Increased risk of eating disorders, loneliness (Severity 3 Significant)","Reduce daily use, prioritize real-life social interaction, consider professional help"
+Facebook,0-30,"Mild distraction, reduced productivity (Severity 1 Mild)","Schedule short breaks, avoid notifications"
+Facebook,60-120,"Depression, social comparison, addiction (Severity 3 Significant)","Schedule breaks, utilize privacy settings, consider deactivating"
+Snapchat,30-60,"Social pressure, unrealistic beauty standards (Severity 2 Moderate)","Reduce daily use, utilize ""My Story"" responsibly, prioritize real-world connections"
+YouTube,60-120,"Algorithm rabbit holes, addiction (Severity 3 Significant)","Reduce daily use, prioritize productivity, diversify content sources"
+Instagram,0-30,"Mild distraction, fleeting envy (Severity 1 Mild)","Limit daily use, manage notifications"
+Twitter,120+,Seek professional help (Severity 4 Severe),Seek professional help
+Snapchat,60-120,"Increased risk of cyberbullying, anxiety (Severity 3 Significant)","Report cyberbullying, consider deactivating, prioritize mental health"
+Facebook,30-60,"Decreased self-esteem, anxiety, FOMO (Severity 2 Moderate)","Limit daily use, curate newsfeed, focus on real-world connections"
+YouTube,30-60,"Procrastination, information overload (Severity 2 Moderate)","Set time limits, utilize ""Do Not Disturb"" mode, diversify content sources"
+Instagram,120+,Seek professional help (Severity 4 Severe),Seek professional help
+TikTok,0-30,"Mild distraction, fleeting comparison (Severity 1 Mild)","Manage notifications, avoid algorithmic rabbit holes"
+Snapchat,0-30,"Mild distraction, fleeting FOMO (Severity 1 Mild)","Manage notifications, avoid beauty filters"
+Twitter,0-30,"Information overload, fleeting negativity (Severity 1 Mild)","Avoid checking during work, curate newsfeed"
+Facebook,120+,Seek professional help (Severity 4 Severe),Seek professional help
+Twitter,30-60,"Anxiety, political polarization (Severity 2 Moderate)","Mute or block negativity, fact-check information, limit political content"
+Twitter,60-120,"Sleep disturbance, echo chambers (Severity 3 Significant)","Schedule breaks, prioritize sleep hygiene, diversify content sources"
+TikTok,120+,Seek professional help (Severity 4 Severe),Seek professional help
+YouTube,0-30,"Passive consumption, mild distraction (Severity 1 Mild)","Use playlists, prioritize educational content"
+Instagram,30-60,"Body image dissatisfaction, FOMO (Severity 2 Moderate)","Follow diverse accounts, avoid explore page, focus on self-expression"
+TikTok,60-120,"Addiction, sleep disturbance, exposure to misinformation (Severity 3 Significant)","Reduce daily use, utilize parental controls, prioritize sleep hygiene"
+Instagram,120+,Seek professional help (Severity 4 Severe),Seek professional help
+Instagram,60-120,"Increased risk of eating disorders, loneliness (Severity 3 Significant)","Reduce daily use, prioritize real-life social interaction, consider professional help"
+Facebook,0-30,"Mild distraction, reduced productivity (Severity 1 Mild)","Schedule short breaks, avoid notifications"
+Facebook,60-120,"Depression, social comparison, addiction (Severity 3 Significant)","Schedule breaks, utilize privacy settings, consider deactivating"
+Snapchat,30-60,"Social pressure, unrealistic beauty standards (Severity 2 Moderate)","Reduce daily use, utilize ""My Story"" responsibly, prioritize real-world connections"
+YouTube,60-120,"Algorithm rabbit holes, addiction (Severity 3 Significant)","Reduce daily use, prioritize productivity, diversify content sources"
+Instagram,0-30,"Mild distraction, fleeting envy (Severity 1 Mild)","Limit daily use, manage notifications"
+Twitter,120+,Seek professional help (Severity 4 Severe),Seek professional help
+Snapchat,60-120,"Increased risk of cyberbullying, anxiety (Severity 3 Significant)","Report cyberbullying, consider deactivating, prioritize mental health"
+Facebook,30-60,"Decreased self-esteem, anxiety, FOMO (Severity 2 Moderate)","Limit daily use, curate newsfeed, focus on real-world connections"
+YouTube,30-60,"Procrastination, information overload (Severity 2 Moderate)","Set time limits, utilize ""Do Not Disturb"" mode, diversify content sources"
+Instagram,120+,Seek professional help (Severity 4 Severe),Seek professional help
+TikTok,0-30,"Mild distraction, fleeting comparison (Severity 1 Mild)","Manage notifications, avoid algorithmic rabbit holes"
+Snapchat,0-30,"Mild distraction, fleeting FOMO (Severity 1 Mild)","Manage notifications, avoid beauty filters"
+Twitter,0-30,"Information overload, fleeting negativity (Severity 1 Mild)","Avoid checking during work, curate newsfeed"
+Facebook,120+,Seek professional help (Severity 4 Severe),Seek professional help
+Twitter,30-60,"Anxiety, political polarization (Severity 2 Moderate)","Mute or block negativity, fact-check information, limit political content"
+Twitter,60-120,"Sleep disturbance, echo chambers (Severity 3 Significant)","Schedule breaks, prioritize sleep hygiene, diversify content sources"
+TikTok,120+,Seek professional help (Severity 4 Severe),Seek professional help
+YouTube,0-30,"Passive consumption, mild distraction (Severity 1 Mild)","Use playlists, prioritize educational content"
+Instagram,30-60,"Body image dissatisfaction, FOMO (Severity 2 Moderate)","Follow diverse accounts, avoid explore page, focus on self-expression"
+TikTok,60-120,"Addiction, sleep disturbance, exposure to misinformation (Severity 3 Significant)","Reduce daily use, utilize parental controls, prioritize sleep hygiene"
+Instagram,120+,Seek professional help (Severity 4 Severe),Seek professional help
+Instagram,60-120,"Increased risk of eating disorders, loneliness (Severity 3 Significant)","Reduce daily use, prioritize real-life social interaction, consider professional help"
+Facebook,0-30,"Mild distraction, reduced productivity (Severity 1 Mild)","Schedule short breaks, avoid notifications"
+Facebook,60-120,"Depression, social comparison, addiction (Severity 3 Significant)","Schedule breaks, utilize privacy settings, consider deactivating"
+Snapchat,30-60,"Social pressure, unrealistic beauty standards (Severity 2 Moderate)","Reduce daily use, utilize ""My Story"" responsibly, prioritize real-world connections"
+YouTube,60-120,"Algorithm rabbit holes, addiction (Severity 3 Significant)","Reduce daily use, prioritize productivity, diversify content sources"
+Instagram,0-30,"Mild distraction, fleeting envy (Severity 1 Mild)","Limit daily use, manage notifications"
+Twitter,120+,Seek professional help (Severity 4 Severe),Seek professional help
+Snapchat,60-120,"Increased risk of cyberbullying, anxiety (Severity 3 Significant)","Report cyberbullying, consider deactivating, prioritize mental health"
+Facebook,30-60,"Decreased self-esteem, anxiety, FOMO (Severity 2 Moderate)","Limit daily use, curate newsfeed, focus on real-world connections"
+YouTube,30-60,"Procrastination, information overload (Severity 2 Moderate)","Set time limits, utilize ""Do Not Disturb"" mode, diversify content sources"
+Instagram,120+,Seek professional help (Severity 4 Severe),Seek professional help
+TikTok,0-30,"Mild distraction, fleeting comparison (Severity 1 Mild)","Manage notifications, avoid algorithmic rabbit holes"
+Snapchat,0-30,"Mild distraction, fleeting FOMO (Severity 1 Mild)","Manage notifications, avoid beauty filters"
+Twitter,0-30,"Information overload, fleeting negativity (Severity 1 Mild)","Avoid checking during work, curate newsfeed"
+Facebook,120+,Seek professional help (Severity 4 Severe),Seek professional help
+Twitter,30-60,"Anxiety, political polarization (Severity 2 Moderate)","Mute or block negativity, fact-check information, limit political content"
+Twitter,60-120,"Sleep disturbance, echo chambers (Severity 3 Significant)","Schedule breaks, prioritize sleep hygiene, diversify content sources"
+TikTok,120+,Seek professional help (Severity 4 Severe),Seek professional help
+YouTube,0-30,"Passive consumption, mild distraction (Severity 1 Mild)","Use playlists, prioritize educational content"
+Instagram,30-60,"Body image dissatisfaction, FOMO (Severity 2 Moderate)","Follow diverse accounts, avoid explore page, focus on self-expression"
+TikTok,60-120,"Addiction, sleep disturbance, exposure to misinformation (Severity 3 Significant)","Reduce daily use, utilize parental controls, prioritize sleep hygiene"
+Instagram,120+,Seek professional help (Severity 4 Severe),Seek professional help
+Instagram,60-120,"Increased risk of eating disorders, loneliness (Severity 3 Significant)","Reduce daily use, prioritize real-life social interaction, consider professional help"
+Facebook,0-30,"Mild distraction, reduced productivity (Severity 1 Mild)","Schedule short breaks, avoid notifications"
+Facebook,60-120,"Depression, social comparison, addiction (Severity 3 Significant)","Schedule breaks, utilize privacy settings, consider deactivating"
+Snapchat,30-60,"Social pressure, unrealistic beauty standards (Severity 2 Moderate)","Reduce daily use, utilize ""My Story"" responsibly, prioritize real-world connections"
+YouTube,60-120,"Algorithm rabbit holes, addiction (Severity 3 Significant)","Reduce daily use, prioritize productivity, diversify content sources"
+Instagram,0-30,"Mild distraction, fleeting envy (Severity 1 Mild)","Limit daily use, manage notifications"
+Twitter,120+,Seek professional help (Severity 4 Severe),Seek professional help
+Snapchat,60-120,"Increased risk of cyberbullying, anxiety (Severity 3 Significant)","Report cyberbullying, consider deactivating, prioritize mental health"
+Facebook,30-60,"Decreased self-esteem, anxiety, FOMO (Severity 2 Moderate)","Limit daily use, curate newsfeed, focus on real-world connections"
+YouTube,30-60,"Procrastination, information overload (Severity 2 Moderate)","Set time limits, utilize ""Do Not Disturb"" mode, diversify content sources"
+Instagram,120+,Seek professional help (Severity 4 Severe),Seek professional help
+TikTok,0-30,"Mild distraction, fleeting comparison (Severity 1 Mild)","Manage notifications, avoid algorithmic rabbit holes"
+Snapchat,0-30,"Mild distraction, fleeting FOMO (Severity 1 Mild)","Manage notifications, avoid beauty filters"
+Twitter,0-30,"Information overload, fleeting negativity (Severity 1 Mild)","Avoid checking during work, curate newsfeed"
+Facebook,120+,Seek professional help (Severity 4 Severe),Seek professional help
+Twitter,30-60,"Anxiety, political polarization (Severity 2 Moderate)","Mute or block negativity, fact-check information, limit political content"
+Twitter,60-120,"Sleep disturbance, echo chambers (Severity 3 Significant)","Schedule breaks, prioritize sleep hygiene, diversify content sources"
+TikTok,120+,Seek professional help (Severity 4 Severe),Seek professional help
+YouTube,0-30,"Passive consumption, mild distraction (Severity 1 Mild)","Use playlists, prioritize educational content"
+Instagram,30-60,"Body image dissatisfaction, FOMO (Severity 2 Moderate)","Follow diverse accounts, avoid explore page, focus on self-expression"
